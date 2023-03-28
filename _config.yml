@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tan Yueyin" # Site Title or Name
+title                    : "About Me" # Site Title or Name
 title_separator          : "-"
 name                     : &name "Tan Yueyin"
 description              : &description "personal description"
