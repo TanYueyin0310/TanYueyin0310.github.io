@@ -7,4 +7,4 @@ author_profile: true
 #   - /resume
 ---
 
-You can access my CV through this [link](http://tanyueyin0310.github.io/files/paper1.pdf).
+You can access my CV through this [link](http://tanyueyin0310.github.io/files/CV_2023.pdf).
